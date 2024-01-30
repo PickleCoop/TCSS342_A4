@@ -1,4 +1,6 @@
 # Author: Evan Cooper
+# Class: Data Structures (TCSS342, Professor Chris Marriot)
+
 
 # Huffman Encoder Project
 
